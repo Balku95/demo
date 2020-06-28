@@ -1,4 +1,6 @@
-#this is demo project
+#his is demo project
 First commit
 Second commit
-causing issues
+=======
+This will cause trouble
+>>>>>>> verybad
