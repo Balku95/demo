@@ -4,3 +4,4 @@ Second commit
 =======
 This will cause trouble
 >>>>>>> verybad
+Added for stash
